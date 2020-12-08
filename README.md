@@ -1,3 +1,9 @@
+#### Changes since fork:
+
+- Mar. 2020:
+  - Fixed a bug where back button does not correctly pops from history.
+  
+
 # history &middot; [![npm package][npm-badge]][npm] [![Travis][build-badge]][build]
 
 [npm-badge]: https://img.shields.io/npm/v/history.svg?style=flat-square
